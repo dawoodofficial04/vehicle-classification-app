@@ -1,5 +1,6 @@
 streamlit
-pandas
+tensorflow-cpu
 numpy
-tensorflow
-PIL
+pandas
+pillow
+requests

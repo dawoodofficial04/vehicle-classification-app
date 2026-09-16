@@ -2,7 +2,7 @@
 
 A Convolutional Neural Network (CNN) that classifies images into 20 vehicle categories, wrapped in an interactive Streamlit web app.
 
-**🔗 Live aApp:** [vehicle-classification-app.streamlit.app](https://vehicle-classification-app-v3vcvgkm6sizzh7x6gjoln.streamlit.app/)
+**🔗 Live App:** [vehicle-classification-app.streamlit.app](https://vehicle-classification-app-v3vcvgkm6sizzh7x6gjoln.streamlit.app/)
 
 ---
 
